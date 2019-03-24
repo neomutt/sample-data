@@ -1,0 +1,15 @@
+argentina
+bolivia
+brazil
+chile
+colombia
+ecuador
+falkland.islands
+french.guiana
+guyana
+paraguay
+peru
+suriname
+trinidad.and.tobago
+uruguay
+venezuela

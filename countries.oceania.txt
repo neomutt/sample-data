@@ -1,0 +1,14 @@
+american.samoa
+australia
+fiji
+kiribati
+marshall.islands
+micronesia
+nauru
+new.caledonia
+new.zealand
+palau
+papua.new.guinea
+samoa
+solomon.islands
+tonga
