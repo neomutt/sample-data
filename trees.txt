@@ -1,4 +1,53 @@
-maple
-oak
-poplar
-rowan
+Arborvitae
+Balsam Fir
+Basswood
+Beech
+Bigtooth Aspen
+Bitternut Hickory
+Black Ash
+Black Birch
+Black Cherry
+Black Locust
+Black Oak
+Black Walnut
+Black Willow
+Butternut
+Chestnut
+Chestnut Oak
+Cucumber Tree
+Eastern Cottonwood
+Eastern Hemlock
+Eastern Redcedar
+Eastern White Pine
+Elm
+Gray Birch
+Hawthorn
+Honey-Locust
+Hornbeam
+Larch
+Maple
+Northern Red Oak
+Oak
+Paper Birch
+Pignut Hickory
+Pin Cherry
+Pitch Pine
+Poplar
+Quaking Aspen
+Red Maple
+Red Pine
+Red Spruce
+Rowan
+Sassafras
+Scarlet Oak
+Shadbush
+Shagbark Hickory
+Silver Maple
+Slippery Elm
+Sugar Maple
+Sycamore
+Tulip Tree
+White Ash
+White Oak
+White Spruce
+Yellow Birch
