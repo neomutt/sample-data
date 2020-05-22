@@ -8,6 +8,7 @@ It can be useful for generating emails, etc.
 
 | File                                                         | Entries | List of                           |
 | :----------------------------------------------------------- |  -----: | :-------------------------------- |
+| [actor.txt](actor.txt)                                       |     319 | Actors and their awards           |
 | [animals.txt](animals.txt)                                   |     556 | Animals                           |
 | [authors-full.txt](authors-full.txt)                         |    2956 | Full Names of Book Authors        |
 | [authors.txt](authors.txt)                                   |    2263 | Surnames of Book Authors          |
