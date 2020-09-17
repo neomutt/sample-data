@@ -1,0 +1,319 @@
+ab@apple.com	Adrien Brody	Oscar
+ab@elderberry.com	Anne Bancroft	Emmy, Oscar, Tony
+ab@fig.com	Amanda Bynes
+ab@jackfruit.com	Alan Bergman	Emmy, Grammy, Oscar
+ac@yew.com	Art Carney	Oscar
+ads@cherry.com	Andre De Shields	Emmy, Grammy, Tony
+ag@banana.com	Alec Guinness	Oscar
+ag@quince.com	Alex Gibson	Emmy, Grammy, Oscar
+ag@ziziphus.com	Anne Garefino	Emmy, Grammy, Tony
+ah@fig.com	Anthony Hopkins	Oscar
+ah@lemon.com	Audrey Hepburn	Emmy, Grammy, Oscar, Tony
+aj@nectarine.com	Angelina Jolie
+ajl@guava.com	Alan Jay Lerner	Grammy, Oscar, Tony
+al@tangerine.com	Alex Lacamoire	Emmy, Grammy, Tony
+alw@elderberry.com	Andrew Lloyd Webber	Emmy, Grammy, Oscar, Tony
+am@mango.com	Alan Menken	Grammy, Oscar, Tony
+am@nectarine.com	Anna Magnani	Oscar
+amd@fig.com	Audra McDonald	Emmy, Grammy, Tony
+amd@raspberry.com	Andie MacDowell
+ap@mango.com	Al Pacino	Emmy, Oscar, Tony
+ar@kumquat.com	Aishwarya Rai
+as@banana.com	Adam Sandler
+as@elderberry.com	Arnold Schwarzenegger
+as@quince.com	Alicia Silverstone
+bb@damson.com	Burt Bacharach	Emmy, Grammy, Oscar
+bc@apple.com	Bing Crosby	Oscar
+bc@ugli.com	Broderick Crawford	Oscar
+bd@yew.com	Bette Davis	Oscar
+bf@fig.com	Brendan Fraser
+bf@guava.com	Bob Fosse	Emmy, Oscar, Tony
+bg@quince.com	Brian Grazer	Emmy, Grammy, Oscar
+bk@papaya.com	Ben Kingsley	Oscar
+bl@cherry.com	Burt Lancaster	Oscar
+bl@tangerine.com	Brie Larson	Oscar
+bm@vanilla.com	Bette Midler	Emmy, Grammy, Tony
+bp@apple.com	Benj Pasek	Grammy, Oscar, Tony
+bp@elderberry.com	Brad Pitt
+bs@raspberry.com	Ben Stiller
+bs@ugli.com	Barbra Streisand	Emmy, Grammy, Oscar
+bw@wolfberry.com	Bruce Willis
+c@damson.com	Common	Emmy, Grammy, Oscar
+c@nectarine.com	Cher	Emmy, Grammy, Oscar
+ca@strawberry.com	Casey Affleck	Oscar
+cb@elderberry.com	Cate Blanchett	Oscar
+cc@damson.com	Cy Coleman	Emmy, Grammy, Tony
+cc@guava.com	Claudette Colbert	Oscar
+cd@jackfruit.com	Cameron Diaz
+ce@hawthorn.com	Clint Eastwood
+ce@lemon.com	Cynthia Erivo	Emmy, Grammy, Tony
+ce@olive.com	Carmen Electra
+cf@papaya.com	Colin Firth	Oscar
+cg@ugli.com	Clark Gable	Oscar
+cg@xigua.com	Carla Gugino
+ch@raspberry.com	Charlton Heston	Oscar
+cjg@nectarine.com	Cuba Jr Gooding
+cl@jackfruit.com	Charles Laughton	Oscar
+cl@tangerine.com	Cyndi Lauper	Emmy, Grammy, Tony
+cn@nectarine.com	Cynthia Nixon	Emmy, Grammy, Tony
+cp@vanilla.com	Christopher Plummer	Emmy, Oscar, Tony
+cr@fig.com	Caitrin Rogers	Emmy, Grammy, Oscar
+cr@jackfruit.com	Cristina Ricci
+cr@nectarine.com	Cliff Robertson	Oscar
+ct@elderberry.com	Charlize Theron	Oscar
+czj@damson.com	Catherine Zeta Jones
+db@banana.com	Drew Barrymore
+dd@ugli.com	Danny Devito
+ddl@guava.com	Daniel Day-Lewis	Oscar
+dh@yew.com	Dustin Hoffman	Oscar
+dk@vanilla.com	Diane Keaton	Oscar
+dm@yew.com	Demi Moore
+dn@elderberry.com	David Niven	Oscar
+dw@nectarine.com	Denzel Washington	Oscar
+eb@banana.com	Ernest Borgnine	Oscar
+eb@nectarine.com	Ellen Burstyn	Emmy, Oscar, Tony
+ej@kumquat.com	Elton John	Grammy, Oscar, Tony
+ej@vanilla.com	Emil Jannings	Oscar
+em@kumquat.com	Eva Mendes
+em@wolfberry.com	Eddie Murphy
+emg@nectarine.com	Ewan McGregor
+er@xigua.com	Eddie Redmayne	Oscar
+es@wolfberry.com	Emma Stone	Oscar
+et@jackfruit.com	Elizabeth Taylor	Oscar
+et@xigua.com	Emma Thompson	Oscar
+ew@apple.com	Elijah Wood
+fd@ilama.com	Faye Dunaway	Oscar
+fe@ugli.com	Fred Ebb	Emmy, Grammy, Tony
+fl@strawberry.com	Frank Loesser	Grammy, Oscar, Tony
+fm@strawberry.com	Fredric March	Oscar
+fmd@hawthorn.com	Frances McDormand	Emmy, Oscar, Tony
+fw@quince.com	Forest Whitaker	Oscar
+ga@cherry.com	George Arliss	Oscar
+gb@nectarine.com	George Burns	Emmy, Grammy, Oscar
+gc@ilama.com	Gary Cooper	Oscar
+gc@olive.com	George Clooney
+gg@tangerine.com	George Grizzard	Emmy, Grammy, Tony
+gg@xigua.com	Greer Garson	Oscar
+gh@guava.com	Gene Hackman	Oscar
+gj@damson.com	Glenda Jackson	Emmy, Oscar, Tony
+gk@strawberry.com	Grace Kelly	Oscar
+go@lemon.com	Gary Oldman	Oscar
+gp@elderberry.com	Geraldine Page	Oscar
+gp@wolfberry.com	Gwyneth Paltrow	Oscar
+gp@ziziphus.com	Gregory Peck	Oscar
+gr@ilama.com	Geoffrey Rush	Emmy, Oscar, Tony
+gr@wolfberry.com	Ginger Rogers	Oscar
+hb@apple.com	Halle Berry	Oscar
+hb@hawthorn.com	Harry Belafonte	Emmy, Grammy, Tony
+hb@quince.com	Humphrey Bogart	Oscar
+hf@damson.com	Harrison Ford
+hf@elderberry.com	Henry Fonda	Grammy, Oscar, Tony
+hg@jackfruit.com	Hildur Gudnadottir	Emmy, Grammy, Oscar
+hh@mango.com	Holly Hunter	Oscar
+hh@olive.com	Helen Hunt	Oscar
+hh@quince.com	Helen Hayes	Emmy, Grammy, Oscar, Tony
+hj@guava.com	Hugh Jackman	Emmy, Grammy, Tony
+hl@tangerine.com	Heath Ledger
+hm@damson.com	Helen Mirren	Emmy, Oscar, Tony
+hs@vanilla.com	Hilary Swank	Oscar
+ib@quince.com	Ingrid Bergman	Emmy, Oscar, Tony
+ja@banana.com	John Addison	Emmy, Grammy, Oscar
+ja@elderberry.com	Jennifer Aniston
+ja@olive.com	Jack Albertson	Emmy, Oscar, Tony
+ja@tangerine.com	Julie Andrews	Emmy, Grammy, Oscar
+ja@ziziphus.com	Jessica Alba
+jb@damson.com	Jessica Biel
+jb@mango.com	Jeff Bridges	Oscar
+jb@tangerine.com	Jerry Bock	Emmy, Grammy, Tony
+jb@ugli.com	Jack Black
+jb@wolfberry.com	Jon Blair	Emmy, Grammy, Oscar
+jc@damson.com	James Cagney	Oscar
+jc@elderberry.com	Julie Christie	Oscar
+jc@mango.com	Jackie Chan
+jc@quince.com	Joan Crawford	Oscar
+jc@raspberry.com	Jim Carrey
+jd@damson.com	Johnny Depp
+jd@olive.com	Jean Dujardin	Oscar
+jef@yew.com	Jose Ferrer	Oscar
+jej@fig.com	James Earl Jones	Emmy, Grammy, Tony
+jf@damson.com	Jane Fonda	Oscar
+jf@fig.com	Jamie Foxx	Oscar
+jf@raspberry.com	Joan Fontaine	Oscar
+jf@yew.com	Jodie Foster	Oscar
+jg@cherry.com	John Gielgud	Emmy, Grammy, Oscar, Tony
+jg@jackfruit.com	Janet Gaynor	Oscar
+jh@apple.com	Judy Holliday	Oscar
+jh@banana.com	Julie Harris	Emmy, Grammy, Tony
+ji@papaya.com	Jeremy Irons	Emmy, Oscar, Tony
+jj@ugli.com	Jennifer Jones	Oscar
+jk@xigua.com	John Kander	Emmy, Grammy, Tony
+jl@mango.com	Jack Lemmon	Oscar
+jl@papaya.com	John Legend	Emmy, Grammy, Oscar, Tony
+jl@quince.com	Jennifer Lawrence	Oscar
+jl@raspberry.com	Jessica Lange	Emmy, Oscar, Tony
+jm@jackfruit.com	James Moll	Emmy, Grammy, Oscar
+jm@kumquat.com	Julianne Moore	Oscar
+jn@guava.com	Jack Nicholson	Oscar
+jp@mango.com	Joaquin Phoenix	Oscar
+jp@papaya.com	Justin Paul	Grammy, Oscar, Tony
+jr@hawthorn.com	Julia Roberts	Oscar
+jr@quince.com	Jason Robards	Emmy, Oscar, Tony
+js@olive.com	James Stewart	Oscar
+js@ziziphus.com	Jule Styne	Grammy, Oscar, Tony
+jt@ilama.com	Jessica Tandy	Emmy, Oscar, Tony
+jt@raspberry.com	Jonathan Tunick	Emmy, Grammy, Oscar, Tony
+jv@cherry.com	Jon Voight	Oscar
+jw@apple.com	Joanne Woodward	Oscar
+jw@mango.com	John Wayne	Oscar
+jw@wolfberry.com	John Williams	Emmy, Grammy, Oscar
+jw@ziziphus.com	Jane Wyman	Oscar
+kb@mango.com	Kate Beckinsale
+kb@ugli.com	Kim Basinger
+kb@yew.com	Kathy Bates	Oscar
+kc@lemon.com	Kevin Costner
+kd@ilama.com	Kirsten Dunst
+kh@yew.com	Katharine Hepburn	Oscar
+kk@nectarine.com	Keira Knightley
+kl@ilama.com	Katrina Lenk	Emmy, Grammy, Tony
+kr@wolfberry.com	Keanu Reeves
+ks@guava.com	Kevin Spacey	Oscar
+kw@strawberry.com	Kate Winslet	Emmy, Grammy, Oscar
+lb@cherry.com	Lionel Barrymore	Oscar
+lb@ugli.com	Leonard Bernstein	Emmy, Grammy, Tony
+ldc@elderberry.com	Leonardo DiCaprio	Oscar
+lf@apple.com	Louise Fletcher	Oscar
+ll@ilama.com	Lucy Liu
+ll@quince.com	Lindsay Lohan
+lm@fig.com	Lee Marvin	Oscar
+lm@jackfruit.com	Liza Minnelli	Emmy, Oscar, Tony
+lmm@vanilla.com	Lin-Manuel Miranda	Emmy, Grammy, Tony
+ln@apple.com	Leslie Nielsen
+lo@banana.com	Laurence Olivier	Oscar
+lr@hawthorn.com	Luise Rainer	Oscar
+lt@quince.com	Liv Tyler
+ly@fig.com	Loretta Young	Oscar
+ma@yew.com	Murray Abraham	Oscar
+mb@cherry.com	Marilyn Bergman	Emmy, Grammy, Oscar
+mb@hawthorn.com	Marlon Brando	Oscar
+mb@vanilla.com	Mel Brooks	Emmy, Grammy, Oscar, Tony
+mb@yew.com	Monica Bellucci
+mc@olive.com	Martin Charnin	Emmy, Grammy, Tony
+mc@tangerine.com	Marion Cotillard	Oscar
+md@fig.com	Melvyn Douglas	Emmy, Oscar, Tony
+md@hawthorn.com	Matt Damon
+md@mango.com	Michael Douglas	Oscar
+md@olive.com	Marie Dressler	Oscar
+mf@quince.com	Megan Fox
+mf@tangerine.com	Morgan Freeman
+mg@kumquat.com	Michael Giacchino	Emmy, Grammy, Oscar
+mg@ugli.com	Mel Gibson
+mh@olive.com	Marvin Hamlisch	Emmy, Grammy, Oscar, Tony
+mj@fig.com	Milla Jovovich
+mjf@kumquat.com	Michael J Fox
+mko@hawthorn.com	Mary-Kate Olsen
+ml@cherry.com	Martin Lawrence
+mm@kumquat.com	Marlee Matlin	Oscar
+mm@ziziphus.com	Mike Myers
+mmc@hawthorn.com	Matthew McConaughey	Oscar
+mn@lemon.com	Morgan Neville	Emmy, Grammy, Oscar
+mn@raspberry.com	Mike Nichols	Emmy, Grammy, Oscar, Tony
+mp@apple.com	Michelle Pfeiffer
+mp@ilama.com	Mary Pickford	Oscar
+mr@ilama.com	Meg Ryan
+mr@xigua.com	Michelle Rodriguez
+ms@banana.com	Martin Scorsese	Emmy, Grammy, Oscar
+ms@lemon.com	Maximilian Schell	Oscar
+ms@mango.com	Meryl Streep	Oscar
+ms@papaya.com	Maggie Smith	Emmy, Oscar, Tony
+ms@wolfberry.com	Maureen Stapleton	Emmy, Oscar, Tony
+nc@olive.com	Nicholas Cage	Oscar
+nk@mango.com	Nicole Kidman	Oscar
+np@banana.com	Natalie Portman	Oscar
+ns@lemon.com	Norma Shearer	Oscar
+ob@xigua.com	Orlando Bloom
+oc@papaya.com	Olivia Colman	Oscar
+oh@ilama.com	Oscar Hammerstein	Grammy, Oscar, Tony
+oh@papaya.com	Olivia de Havilland	Oscar
+ow@olive.com	Owen Wilson
+pc@vanilla.com	Penelope Cruz
+pl@kumquat.com	Paul Lukas	Oscar
+pm@hawthorn.com	Paul Muni	Oscar
+pn@elderberry.com	Patricia Neal	Oscar
+pn@hawthorn.com	Paul Newman	Oscar
+ps@lemon.com	Paul Scofield	Emmy, Oscar, Tony
+psh@nectarine.com	Philip Seymour Hoffman	Oscar
+pu@ziziphus.com	Peter Ustinov	Emmy, Grammy, Oscar
+qj@cherry.com	Quincy Jones	Emmy, Grammy, Tony
+rb@apple.com	Roberto Benigni	Oscar
+rb@raspberry.com	Ralph Burns	Emmy, Oscar, Tony
+rbj@cherry.com	Rachel Bay Jones	Emmy, Grammy, Tony
+rc@quince.com	Russell Crowe	Oscar
+rc@xigua.com	Ronald Colman	Oscar
+rd@banana.com	Robert Donat	Oscar
+rd@fig.com	Richard Dreyfuss	Oscar
+rd@jackfruit.com	Rosario Dawson
+rd@strawberry.com	Robert Duvall	Oscar
+rdn@jackfruit.com	Robert De Niro	Oscar
+rez@jackfruit.com	Renee Zellweger	Oscar
+rg@guava.com	Richard Gere
+rh@mango.com	Ron Howard	Emmy, Grammy, Oscar
+rh@raspberry.com	Rex Harrison	Oscar
+rl@kumquat.com	Robert Lopez	Emmy, Grammy, Oscar, Tony
+rm@papaya.com	Rami Malek	Oscar
+rm@ugli.com	Rita Moreno	Emmy, Grammy, Oscar, Tony
+rm@ziziphus.com	Ray Milland	Oscar
+rma@raspberry.com	Rachel McAdams
+rn@damson.com	Randy Newman	Emmy, Grammy, Oscar
+rr@kumquat.com	Robert Redford
+rr@nectarine.com	Richard Rodgers	Emmy, Grammy, Oscar, Tony
+rrs@ugli.com	Rebecca Romijn-Stamos
+rs@olive.com	Rod Steiger	Oscar
+rw@wolfberry.com	Robin Williams	Emmy, Grammy, Oscar
+rw@xigua.com	Reese Witherspoon	Oscar
+sb@guava.com	Shirley Booth	Emmy, Oscar, Tony
+sb@nectarine.com	Sandra Bullock	Oscar
+sc@damson.com	Steve Carrell
+sc@ugli.com	Sean Connery
+sf@.com	Sally Field	Oscar
+sg@kumquat.com	Sienna Guillory
+sh@tangerine.com	Susan Hayward	Oscar
+sh@vanilla.com	Salma Hayek
+sj@ugli.com	Scarlett Johansson
+sl@apple.com	Sophia Loren	Oscar
+slj@raspberry.com	Samuel L Jackson
+sm@cherry.com	Steve Martin
+smg@xigua.com	Sarah Michelle Geller
+sml@jackfruit.com	Shirley MacLaine	Oscar
+sp@papaya.com	Sidney Poitier	Oscar
+sp@yew.com	Sean Penn	Oscar
+sr@ilama.com	Sid Ramin	Emmy, Grammy, Oscar
+sr@ziziphus.com	Scott Rudin	Emmy, Grammy, Oscar, Tony
+ss@damson.com	Silvester Stallone
+ss@fig.com	Susan Sarandon	Oscar
+ss@guava.com	Simone Signoret	Oscar
+ss@hawthorn.com	Sharon Stone
+ss@lemon.com	Sissy Spacek	Oscar
+ss@ziziphus.com	Stephen Sondheim	Grammy, Oscar, Tony
+st@cherry.com	Spencer Tracy	Oscar
+sw@xigua.com	Stella Warren
+tc@ilama.com	Tom Cruise
+th@guava.com	Tom Hanks	Oscar
+tm@elderberry.com	Thomas Mitchell	Emmy, Oscar, Tony
+tp@kumquat.com	Trey Parker	Emmy, Grammy, Tony
+tr@ziziphus.com	Tim Rice	Emmy, Grammy, Oscar, Tony
+tw@olive.com	Tony Walton	Emmy, Oscar, Tony
+vd@fig.com	Viola Davis	Emmy, Oscar, Tony
+vd@jackfruit.com	Vin Diesel
+vl@mango.com	Vivien Leigh	Oscar
+vml@strawberry.com	Victor McLaglen	Oscar
+vr@mango.com	Vanessa Redgrave	Emmy, Oscar, Tony
+wb@cherry.com	Wallace Beery	Oscar
+wb@lemon.com	Warner Baxter	Oscar
+wf@ugli.com	Will Ferrell
+wg@guava.com	Whoopi Goldberg	Emmy, Grammy, Oscar, Tony
+wh@damson.com	William Holden	Oscar
+wh@tangerine.com	William Hurt	Oscar
+wr@strawberry.com	Winona Ryder
+ws@jackfruit.com	Will Smith
+yb@papaya.com	Yul Brynner	Oscar
+zd@quince.com	Zooey Deschanel

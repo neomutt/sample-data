@@ -8,6 +8,8 @@ It can be useful for generating emails, etc.
 
 | File                                                         | Entries | List of                           |
 | :----------------------------------------------------------- |  -----: | :-------------------------------- |
+| [actor-alias.rc](actor-alias.rc)                             |     319 | Actors as NeoMutt aliases         |
+| [actor-query.txt](actor-query.txt)                           |     319 | Actors in NeoMutt query format    |
 | [actor.txt](actor.txt)                                       |     319 | Actors and their awards           |
 | [animals.txt](animals.txt)                                   |     556 | Animals                           |
 | [authors-full.txt](authors-full.txt)                         |    2956 | Full Names of Book Authors        |

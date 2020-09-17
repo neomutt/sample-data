@@ -1,0 +1,319 @@
+alias adam        Adam Sandler           <as@banana.com>      #
+alias adrien      Adrien Brody           <ab@apple.com>       # Oscar
+alias aishwarya   Aishwarya Rai          <ar@kumquat.com>     #
+alias al          Al Pacino              <ap@mango.com>       # Emmy, Oscar, Tony
+alias alan        Alan Menken            <am@mango.com>       # Grammy, Oscar, Tony
+alias alanb       Alan Bergman           <ab@jackfruit.com>   # Emmy, Grammy, Oscar
+alias alanj       Alan Jay Lerner        <ajl@guava.com>      # Grammy, Oscar, Tony
+alias alec        Alec Guinness          <ag@banana.com>      # Oscar
+alias alexg       Alex Gibson            <ag@quince.com>      # Emmy, Grammy, Oscar
+alias alexl       Alex Lacamoire         <al@tangerine.com>   # Emmy, Grammy, Tony
+alias alicia      Alicia Silverstone     <as@quince.com>      #
+alias amanda      Amanda Bynes           <ab@fig.com>         #
+alias andie       Andie MacDowell        <amd@raspberry.com>  #
+alias andre       Andre De Shields       <ads@cherry.com>     # Emmy, Grammy, Tony
+alias andrew      Andrew Lloyd Webber    <alw@elderberry.com> # Emmy, Grammy, Oscar, Tony
+alias angelina    Angelina Jolie         <aj@nectarine.com>   #
+alias anna        Anna Magnani           <am@nectarine.com>   # Oscar
+alias anneb       Anne Bancroft          <ab@elderberry.com>  # Emmy, Oscar, Tony
+alias anneg       Anne Garefino          <ag@ziziphus.com>    # Emmy, Grammy, Tony
+alias anthony     Anthony Hopkins        <ah@fig.com>         # Oscar
+alias arnold      Arnold Schwarzenegger  <as@elderberry.com>  #
+alias art         Art Carney             <ac@yew.com>         # Oscar
+alias audra       Audra McDonald         <amd@fig.com>        # Emmy, Grammy, Tony
+alias audrey      Audrey Hepburn         <ah@lemon.com>       # Emmy, Grammy, Oscar, Tony
+alias barbra      Barbra Streisand       <bs@ugli.com>        # Emmy, Grammy, Oscar
+alias benj        Benj Pasek             <bp@apple.com>       # Grammy, Oscar, Tony
+alias benk        Ben Kingsley           <bk@papaya.com>      # Oscar
+alias bens        Ben Stiller            <bs@raspberry.com>   #
+alias betted      Bette Davis            <bd@yew.com>         # Oscar
+alias bettem      Bette Midler           <bm@vanilla.com>     # Emmy, Grammy, Tony
+alias bing        Bing Crosby            <bc@apple.com>       # Oscar
+alias bob         Bob Fosse              <bf@guava.com>       # Emmy, Oscar, Tony
+alias brad        Brad Pitt              <bp@elderberry.com>  #
+alias brendan     Brendan Fraser         <bf@fig.com>         #
+alias brian       Brian Grazer           <bg@quince.com>      # Emmy, Grammy, Oscar
+alias brie        Brie Larson            <bl@tangerine.com>   # Oscar
+alias broderick   Broderick Crawford     <bc@ugli.com>        # Oscar
+alias bruce       Bruce Willis           <bw@wolfberry.com>   #
+alias burtb       Burt Bacharach         <bb@damson.com>      # Emmy, Grammy, Oscar
+alias burtl       Burt Lancaster         <bl@cherry.com>      # Oscar
+alias caitrin     Caitrin Rogers         <cr@fig.com>         # Emmy, Grammy, Oscar
+alias cameron     Cameron Diaz           <cd@jackfruit.com>   #
+alias carla       Carla Gugino           <cg@xigua.com>       #
+alias carmen      Carmen Electra         <ce@olive.com>       #
+alias casey       Casey Affleck          <ca@strawberry.com>  # Oscar
+alias cate        Cate Blanchett         <cb@elderberry.com>  # Oscar
+alias catherine   Catherine Zeta Jones   <czj@damson.com>     #
+alias charles     Charles Laughton       <cl@jackfruit.com>   # Oscar
+alias charlize    Charlize Theron        <ct@elderberry.com>  # Oscar
+alias charlton    Charlton Heston        <ch@raspberry.com>   # Oscar
+alias cher        Cher                   <c@nectarine.com>    # Emmy, Grammy, Oscar
+alias christopher Christopher Plummer    <cp@vanilla.com>     # Emmy, Oscar, Tony
+alias clark       Clark Gable            <cg@ugli.com>        # Oscar
+alias claudette   Claudette Colbert      <cc@guava.com>       # Oscar
+alias cliff       Cliff Robertson        <cr@nectarine.com>   # Oscar
+alias clint       Clint Eastwood         <ce@hawthorn.com>    #
+alias colin       Colin Firth            <cf@papaya.com>      # Oscar
+alias common      Common                 <c@damson.com>       # Emmy, Grammy, Oscar
+alias cristina    Cristina Ricci         <cr@jackfruit.com>   #
+alias cuba        Cuba Jr Gooding        <cjg@nectarine.com>  #
+alias cy          Cy Coleman             <cc@damson.com>      # Emmy, Grammy, Tony
+alias cyndi       Cyndi Lauper           <cl@tangerine.com>   # Emmy, Grammy, Tony
+alias cynthiae    Cynthia Erivo          <ce@lemon.com>       # Emmy, Grammy, Tony
+alias cynthian    Cynthia Nixon          <cn@nectarine.com>   # Emmy, Grammy, Tony
+alias daniel      Daniel Day-Lewis       <ddl@guava.com>      # Oscar
+alias danny       Danny Devito           <dd@ugli.com>        #
+alias david       David Niven            <dn@elderberry.com>  # Oscar
+alias demi        Demi Moore             <dm@yew.com>         #
+alias denzel      Denzel Washington      <dw@nectarine.com>   # Oscar
+alias diane       Diane Keaton           <dk@vanilla.com>     # Oscar
+alias drew        Drew Barrymore         <db@banana.com>      #
+alias dustin      Dustin Hoffman         <dh@yew.com>         # Oscar
+alias eddiem      Eddie Murphy           <em@wolfberry.com>   #
+alias eddier      Eddie Redmayne         <er@xigua.com>       # Oscar
+alias elijah      Elijah Wood            <ew@apple.com>       #
+alias elizabeth   Elizabeth Taylor       <et@jackfruit.com>   # Oscar
+alias ellen       Ellen Burstyn          <eb@nectarine.com>   # Emmy, Oscar, Tony
+alias elton       Elton John             <ej@kumquat.com>     # Grammy, Oscar, Tony
+alias emil        Emil Jannings          <ej@vanilla.com>     # Oscar
+alias emmas       Emma Stone             <es@wolfberry.com>   # Oscar
+alias emmat       Emma Thompson          <et@xigua.com>       # Oscar
+alias ernest      Ernest Borgnine        <eb@banana.com>      # Oscar
+alias eva         Eva Mendes             <em@kumquat.com>     #
+alias ewan        Ewan McGregor          <emg@nectarine.com>  #
+alias faye        Faye Dunaway           <fd@ilama.com>       # Oscar
+alias forest      Forest Whitaker        <fw@quince.com>      # Oscar
+alias frances     Frances McDormand      <fmd@hawthorn.com>   # Emmy, Oscar, Tony
+alias frank       Frank Loesser          <fl@strawberry.com>  # Grammy, Oscar, Tony
+alias fred        Fred Ebb               <fe@ugli.com>        # Emmy, Grammy, Tony
+alias fredric     Fredric March          <fm@strawberry.com>  # Oscar
+alias garyc       Gary Cooper            <gc@ilama.com>       # Oscar
+alias garyo       Gary Oldman            <go@lemon.com>       # Oscar
+alias gene        Gene Hackman           <gh@guava.com>       # Oscar
+alias geoffrey    Geoffrey Rush          <gr@ilama.com>       # Emmy, Oscar, Tony
+alias georgea     George Arliss          <ga@cherry.com>      # Oscar
+alias georgeb     George Burns           <gb@nectarine.com>   # Emmy, Grammy, Oscar
+alias georgec     George Clooney         <gc@olive.com>       #
+alias georgeg     George Grizzard        <gg@tangerine.com>   # Emmy, Grammy, Tony
+alias geraldine   Geraldine Page         <gp@elderberry.com>  # Oscar
+alias ginger      Ginger Rogers          <gr@wolfberry.com>   # Oscar
+alias glenda      Glenda Jackson         <gj@damson.com>      # Emmy, Oscar, Tony
+alias grace       Grace Kelly            <gk@strawberry.com>  # Oscar
+alias greer       Greer Garson           <gg@xigua.com>       # Oscar
+alias gregory     Gregory Peck           <gp@ziziphus.com>    # Oscar
+alias gwyneth     Gwyneth Paltrow        <gp@wolfberry.com>   # Oscar
+alias halle       Halle Berry            <hb@apple.com>       # Oscar
+alias harrison    Harrison Ford          <hf@damson.com>      #
+alias harry       Harry Belafonte        <hb@hawthorn.com>    # Emmy, Grammy, Tony
+alias heath       Heath Ledger           <hl@tangerine.com>   #
+alias helen       Helen Mirren           <hm@damson.com>      # Emmy, Oscar, Tony
+alias henry       Henry Fonda            <hf@elderberry.com>  # Grammy, Oscar, Tony
+alias hhayes      Helen Hayes            <hh@quince.com>      # Emmy, Grammy, Oscar, Tony
+alias hhunt       Helen Hunt             <hh@olive.com>       # Oscar
+alias hilary      Hilary Swank           <hs@vanilla.com>     # Oscar
+alias hildur      Hildur Gudnadottir     <hg@jackfruit.com>   # Emmy, Grammy, Oscar
+alias holly       Holly Hunter           <hh@mango.com>       # Oscar
+alias hugh        Hugh Jackman           <hj@guava.com>       # Emmy, Grammy, Tony
+alias humphrey    Humphrey Bogart        <hb@quince.com>      # Oscar
+alias ingrid      Ingrid Bergman         <ib@quince.com>      # Emmy, Oscar, Tony
+alias jacka       Jack Albertson         <ja@olive.com>       # Emmy, Oscar, Tony
+alias jackb       Jack Black             <jb@ugli.com>        #
+alias jackie      Jackie Chan            <jc@mango.com>       #
+alias jackl       Jack Lemmon            <jl@mango.com>       # Oscar
+alias jackn       Jack Nicholson         <jn@guava.com>       # Oscar
+alias jamesc      James Cagney           <jc@damson.com>      # Oscar
+alias jamese      James Earl Jones       <jej@fig.com>        # Emmy, Grammy, Tony
+alias jamesm      James Moll             <jm@jackfruit.com>   # Emmy, Grammy, Oscar
+alias jamess      James Stewart          <js@olive.com>       # Oscar
+alias jamie       Jamie Foxx             <jf@fig.com>         # Oscar
+alias janef       Jane Fonda             <jf@damson.com>      # Oscar
+alias janet       Janet Gaynor           <jg@jackfruit.com>   # Oscar
+alias janew       Jane Wyman             <jw@ziziphus.com>    # Oscar
+alias jason       Jason Robards          <jr@quince.com>      # Emmy, Oscar, Tony
+alias jean        Jean Dujardin          <jd@olive.com>       # Oscar
+alias jeff        Jeff Bridges           <jb@mango.com>       # Oscar
+alias jennifer    Jennifer Lawrence      <jl@quince.com>      # Oscar
+alias jennifera   Jennifer Aniston       <ja@elderberry.com>  #
+alias jenniferj   Jennifer Jones         <jj@ugli.com>        # Oscar
+alias jeremy      Jeremy Irons           <ji@papaya.com>      # Emmy, Oscar, Tony
+alias jerry       Jerry Bock             <jb@tangerine.com>   # Emmy, Grammy, Tony
+alias jessicaa    Jessica Alba           <ja@ziziphus.com>    #
+alias jessicab    Jessica Biel           <jb@damson.com>      #
+alias jessical    Jessica Lange          <jl@raspberry.com>   # Emmy, Oscar, Tony
+alias jessicat    Jessica Tandy          <jt@ilama.com>       # Emmy, Oscar, Tony
+alias jim         Jim Carrey             <jc@raspberry.com>   #
+alias joanc       Joan Crawford          <jc@quince.com>      # Oscar
+alias joanf       Joan Fontaine          <jf@raspberry.com>   # Oscar
+alias joanne      Joanne Woodward        <jw@apple.com>       # Oscar
+alias joaquin     Joaquin Phoenix        <jp@mango.com>       # Oscar
+alias jodie       Jodie Foster           <jf@yew.com>         # Oscar
+alias johna       John Addison           <ja@banana.com>      # Emmy, Grammy, Oscar
+alias johng       John Gielgud           <jg@cherry.com>      # Emmy, Grammy, Oscar, Tony
+alias johnk       John Kander            <jk@xigua.com>       # Emmy, Grammy, Tony
+alias johnl       John Legend            <jl@papaya.com>      # Emmy, Grammy, Oscar, Tony
+alias johnny      Johnny Depp            <jd@damson.com>      #
+alias jonathan    Jonathan Tunick        <jt@raspberry.com>   # Emmy, Grammy, Oscar, Tony
+alias jonb        Jon Blair              <jb@wolfberry.com>   # Emmy, Grammy, Oscar
+alias jonv        Jon Voight             <jv@cherry.com>      # Oscar
+alias jose        Jose Ferrer            <jef@yew.com>        # Oscar
+alias judy        Judy Holliday          <jh@apple.com>       # Oscar
+alias jule        Jule Styne             <js@ziziphus.com>    # Grammy, Oscar, Tony
+alias julia       Julia Roberts          <jr@hawthorn.com>    # Oscar
+alias julianne    Julianne Moore         <jm@kumquat.com>     # Oscar
+alias julie       Julie Harris           <jh@banana.com>      # Emmy, Grammy, Tony
+alias juliea      Julie Andrews          <ja@tangerine.com>   # Emmy, Grammy, Oscar
+alias juliec      Julie Christie         <jc@elderberry.com>  # Oscar
+alias justin      Justin Paul            <jp@papaya.com>      # Grammy, Oscar, Tony
+alias jwayne      John Wayne             <jw@mango.com>       # Oscar
+alias jwilliama   John Williams          <jw@wolfberry.com>   # Emmy, Grammy, Oscar
+alias kateb       Kate Beckinsale        <kb@mango.com>       #
+alias katew       Kate Winslet           <kw@strawberry.com>  # Emmy, Grammy, Oscar
+alias katharine   Katharine Hepburn      <kh@yew.com>         # Oscar
+alias kathy       Kathy Bates            <kb@yew.com>         # Oscar
+alias katrina     Katrina Lenk           <kl@ilama.com>       # Emmy, Grammy, Tony
+alias keanu       Keanu Reeves           <kr@wolfberry.com>   #
+alias keira       Keira Knightley        <kk@nectarine.com>   #
+alias kevinc      Kevin Costner          <kc@lemon.com>       #
+alias kevins      Kevin Spacey           <ks@guava.com>       # Oscar
+alias kim         Kim Basinger           <kb@ugli.com>        #
+alias kirsten     Kirsten Dunst          <kd@ilama.com>       #
+alias laurence    Laurence Olivier       <lo@banana.com>      # Oscar
+alias lee         Lee Marvin             <lm@fig.com>         # Oscar
+alias leonard     Leonard Bernstein      <lb@ugli.com>        # Emmy, Grammy, Tony
+alias leonardo    Leonardo DiCaprio      <ldc@elderberry.com> # Oscar
+alias leslie      Leslie Nielsen         <ln@apple.com>       #
+alias lin         Lin-Manuel Miranda     <lmm@vanilla.com>    # Emmy, Grammy, Tony
+alias lindsay     Lindsay Lohan          <ll@quince.com>      #
+alias lionel      Lionel Barrymore       <lb@cherry.com>      # Oscar
+alias liv         Liv Tyler              <lt@quince.com>      #
+alias liza        Liza Minnelli          <lm@jackfruit.com>   # Emmy, Oscar, Tony
+alias loretta     Loretta Young          <ly@fig.com>         # Oscar
+alias louise      Louise Fletcher        <lf@apple.com>       # Oscar
+alias lucy        Lucy Liu               <ll@ilama.com>       #
+alias luise       Luise Rainer           <lr@hawthorn.com>    # Oscar
+alias maggie      Maggie Smith           <ms@papaya.com>      # Emmy, Oscar, Tony
+alias marie       Marie Dressler         <md@olive.com>       # Oscar
+alias marilyn     Marilyn Bergman        <mb@cherry.com>      # Emmy, Grammy, Oscar
+alias marion      Marion Cotillard       <mc@tangerine.com>   # Oscar
+alias marlee      Marlee Matlin          <mm@kumquat.com>     # Oscar
+alias marlon      Marlon Brando          <mb@hawthorn.com>    # Oscar
+alias martin      Martin Scorsese        <ms@banana.com>      # Emmy, Grammy, Oscar
+alias martinc     Martin Charnin         <mc@olive.com>       # Emmy, Grammy, Tony
+alias martinl     Martin Lawrence        <ml@cherry.com>      #
+alias marvin      Marvin Hamlisch        <mh@olive.com>       # Emmy, Grammy, Oscar, Tony
+alias mary        Mary Pickford          <mp@ilama.com>       # Oscar
+alias maryk       Mary-Kate Olsen        <mko@hawthorn.com>   #
+alias matt        Matt Damon             <md@hawthorn.com>    #
+alias matthew     Matthew McConaughey    <mmc@hawthorn.com>   # Oscar
+alias maureen     Maureen Stapleton      <ms@wolfberry.com>   # Emmy, Oscar, Tony
+alias maximilian  Maximilian Schell      <ms@lemon.com>       # Oscar
+alias meg         Meg Ryan               <mr@ilama.com>       #
+alias megan       Megan Fox              <mf@quince.com>      #
+alias melb        Mel Brooks             <mb@vanilla.com>     # Emmy, Grammy, Oscar, Tony
+alias melg        Mel Gibson             <mg@ugli.com>        #
+alias melvyn      Melvyn Douglas         <md@fig.com>         # Emmy, Oscar, Tony
+alias meryl       Meryl Streep           <ms@mango.com>       # Oscar
+alias michael     Michael J Fox          <mjf@kumquat.com>    #
+alias michaeld    Michael Douglas        <md@mango.com>       # Oscar
+alias michaelg    Michael Giacchino      <mg@kumquat.com>     # Emmy, Grammy, Oscar
+alias michellep   Michelle Pfeiffer      <mp@apple.com>       #
+alias micheller   Michelle Rodriguez     <mr@xigua.com>       #
+alias mikem       Mike Myers             <mm@ziziphus.com>    #
+alias miken       Mike Nichols           <mn@raspberry.com>   # Emmy, Grammy, Oscar, Tony
+alias milla       Milla Jovovich         <mj@fig.com>         #
+alias monica      Monica Bellucci        <mb@yew.com>         #
+alias morganf     Morgan Freeman         <mf@tangerine.com>   #
+alias morgann     Morgan Neville         <mn@lemon.com>       # Emmy, Grammy, Oscar
+alias murray      Murray Abraham         <ma@yew.com>         # Oscar
+alias natalie     Natalie Portman        <np@banana.com>      # Oscar
+alias nicholas    Nicholas Cage          <nc@olive.com>       # Oscar
+alias nicole      Nicole Kidman          <nk@mango.com>       # Oscar
+alias norma       Norma Shearer          <ns@lemon.com>       # Oscar
+alias oliviac     Olivia Colman          <oc@papaya.com>      # Oscar
+alias oliviad     Olivia de Havilland    <oh@papaya.com>      # Oscar
+alias orlando     Orlando Bloom          <ob@xigua.com>       #
+alias oscar       Oscar Hammerstein      <oh@ilama.com>       # Grammy, Oscar, Tony
+alias owen        Owen Wilson            <ow@olive.com>       #
+alias patricia    Patricia Neal          <pn@elderberry.com>  # Oscar
+alias paull       Paul Lukas             <pl@kumquat.com>     # Oscar
+alias paulm       Paul Muni              <pm@hawthorn.com>    # Oscar
+alias pauln       Paul Newman            <pn@hawthorn.com>    # Oscar
+alias pauls       Paul Scofield          <ps@lemon.com>       # Emmy, Oscar, Tony
+alias penelope    Penelope Cruz          <pc@vanilla.com>     #
+alias peter       Peter Ustinov          <pu@ziziphus.com>    # Emmy, Grammy, Oscar
+alias philip      Philip Seymour Hoffman <psh@nectarine.com>  # Oscar
+alias quincy      Quincy Jones           <qj@cherry.com>      # Emmy, Grammy, Tony
+alias rachelb     Rachel Bay Jones       <rbj@cherry.com>     # Emmy, Grammy, Tony
+alias rachelm     Rachel McAdams         <rma@raspberry.com>  #
+alias ralph       Ralph Burns            <rb@raspberry.com>   # Emmy, Oscar, Tony
+alias rami        Rami Malek             <rm@papaya.com>      # Oscar
+alias randy       Randy Newman           <rn@damson.com>      # Emmy, Grammy, Oscar
+alias ray         Ray Milland            <rm@ziziphus.com>    # Oscar
+alias rdeniro     Robert De Niro         <rdn@jackfruit.com>  # Oscar
+alias rdonat      Robert Donat           <rd@banana.com>      # Oscar
+alias rduvall     Robert Duvall          <rd@strawberry.com>  # Oscar
+alias rebecca     Rebecca Romijn-Stamos  <rrs@ugli.com>       #
+alias reese       Reese Witherspoon      <rw@xigua.com>       # Oscar
+alias renee       Renee Zellweger        <rez@jackfruit.com>  # Oscar
+alias rex         Rex Harrison           <rh@raspberry.com>   # Oscar
+alias richardd    Richard Dreyfuss       <rd@fig.com>         # Oscar
+alias richardg    Richard Gere           <rg@guava.com>       #
+alias richardr    Richard Rodgers        <rr@nectarine.com>   # Emmy, Grammy, Oscar, Tony
+alias rita        Rita Moreno            <rm@ugli.com>        # Emmy, Grammy, Oscar, Tony
+alias robertl     Robert Lopez           <rl@kumquat.com>     # Emmy, Grammy, Oscar, Tony
+alias roberto     Roberto Benigni        <rb@apple.com>       # Oscar
+alias robertr     Robert Redford         <rr@kumquat.com>     #
+alias robin       Robin Williams         <rw@wolfberry.com>   # Emmy, Grammy, Oscar
+alias rod         Rod Steiger            <rs@olive.com>       # Oscar
+alias ron         Ron Howard             <rh@mango.com>       # Emmy, Grammy, Oscar
+alias ronald      Ronald Colman          <rc@xigua.com>       # Oscar
+alias rosario     Rosario Dawson         <rd@jackfruit.com>   #
+alias russell     Russell Crowe          <rc@quince.com>      # Oscar
+alias sally       Sally Field            <sf@.com>            # Oscar
+alias salma       Salma Hayek            <sh@vanilla.com>     #
+alias samuel      Samuel L Jackson       <slj@raspberry.com>  #
+alias sandra      Sandra Bullock         <sb@nectarine.com>   # Oscar
+alias sarah       Sarah Michelle Geller  <smg@xigua.com>      #
+alias scarlett    Scarlett Johansson     <sj@ugli.com>        #
+alias scott       Scott Rudin            <sr@ziziphus.com>    # Emmy, Grammy, Oscar, Tony
+alias seanc       Sean Connery           <sc@ugli.com>        #
+alias seanp       Sean Penn              <sp@yew.com>         # Oscar
+alias sharon      Sharon Stone           <ss@hawthorn.com>    #
+alias shirleyb    Shirley Booth          <sb@guava.com>       # Emmy, Oscar, Tony
+alias shirleym    Shirley MacLaine       <sml@jackfruit.com>  # Oscar
+alias sid         Sid Ramin              <sr@ilama.com>       # Emmy, Grammy, Oscar
+alias sidney      Sidney Poitier         <sp@papaya.com>      # Oscar
+alias sienna      Sienna Guillory        <sg@kumquat.com>     #
+alias silvester   Silvester Stallone     <ss@damson.com>      #
+alias simone      Simone Signoret        <ss@guava.com>       # Oscar
+alias sissy       Sissy Spacek           <ss@lemon.com>       # Oscar
+alias sophia      Sophia Loren           <sl@apple.com>       # Oscar
+alias spencer     Spencer Tracy          <st@cherry.com>      # Oscar
+alias stella      Stella Warren          <sw@xigua.com>       #
+alias stephen     Stephen Sondheim       <ss@ziziphus.com>    # Grammy, Oscar, Tony
+alias stevec      Steve Carrell          <sc@damson.com>      #
+alias stevem      Steve Martin           <sm@cherry.com>      #
+alias susanh      Susan Hayward          <sh@tangerine.com>   # Oscar
+alias susans      Susan Sarandon         <ss@fig.com>         # Oscar
+alias thomas      Thomas Mitchell        <tm@elderberry.com>  # Emmy, Oscar, Tony
+alias tim         Tim Rice               <tr@ziziphus.com>    # Emmy, Grammy, Oscar, Tony
+alias tomc        Tom Cruise             <tc@ilama.com>       #
+alias tomh        Tom Hanks              <th@guava.com>       # Oscar
+alias tony        Tony Walton            <tw@olive.com>       # Emmy, Oscar, Tony
+alias trey        Trey Parker            <tp@kumquat.com>     # Emmy, Grammy, Tony
+alias vanessa     Vanessa Redgrave       <vr@mango.com>       # Emmy, Oscar, Tony
+alias victor      Victor McLaglen        <vml@strawberry.com> # Oscar
+alias vin         Vin Diesel             <vd@jackfruit.com>   #
+alias viola       Viola Davis            <vd@fig.com>         # Emmy, Oscar, Tony
+alias vivien      Vivien Leigh           <vl@mango.com>       # Oscar
+alias wallace     Wallace Beery          <wb@cherry.com>      # Oscar
+alias warner      Warner Baxter          <wb@lemon.com>       # Oscar
+alias wholden     William Holden         <wh@damson.com>      # Oscar
+alias whoopi      Whoopi Goldberg        <wg@guava.com>       # Emmy, Grammy, Oscar, Tony
+alias whurt       William Hurt           <wh@tangerine.com>   # Oscar
+alias willf       Will Ferrell           <wf@ugli.com>        #
+alias wills       Will Smith             <ws@jackfruit.com>   #
+alias winona      Winona Ryder           <wr@strawberry.com>  #
+alias yul         Yul Brynner            <yb@papaya.com>      # Oscar
+alias zooey       Zooey Deschanel        <zd@quince.com>      #
