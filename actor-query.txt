@@ -274,7 +274,7 @@ sb@guava.com	Shirley Booth	Emmy, Oscar, Tony
 sb@nectarine.com	Sandra Bullock	Oscar
 sc@damson.com	Steve Carrell
 sc@ugli.com	Sean Connery
-sf@.com	Sally Field	Oscar
+sf@yew.com	Sally Field	Oscar
 sg@kumquat.com	Sienna Guillory
 sh@tangerine.com	Susan Hayward	Oscar
 sh@vanilla.com	Salma Hayek
