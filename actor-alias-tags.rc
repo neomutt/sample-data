@@ -1,0 +1,319 @@
+alias adam        Adam Sandler           <as@banana.com>      # tags: cherry
+alias adrien      Adrien Brody           <ab@apple.com>       # banana tags:oscar
+alias aishwarya   Aishwarya Rai          <ar@kumquat.com>     # tags:
+alias al          Al Pacino              <ap@mango.com>       # tags:emmy,oscar,tony
+alias alan        Alan Menken            <am@mango.com>       # banana tags:grammy,oscar,tony cherry damson
+alias alanb       Alan Bergman           <ab@jackfruit.com>   # banana tags:emmy,grammy,oscar
+alias alanj       Alan Jay Lerner        <ajl@guava.com>      # banana tags:grammy,oscar,tony cherry
+alias alec        Alec Guinness          <ag@banana.com>      # tags:oscar damson
+alias alexg       Alex Gibson            <ag@quince.com>      # tags:emmy,grammy,oscar
+alias alexl       Alex Lacamoire         <al@tangerine.com>   # tags:emmy,grammy,tony cherry
+alias alicia      Alicia Silverstone     <as@quince.com>      # tags:
+alias amanda      Amanda Bynes           <ab@fig.com>         # tags: cherry damson
+alias andie       Andie MacDowell        <amd@raspberry.com>  # cherry tags:  
+alias andre       Andre De Shields       <ads@cherry.com>     # banana tags:emmy,grammy,tony cherry
+alias andrew      Andrew Lloyd Webber    <alw@elderberry.com> # tags:emmy,grammy,oscar,tony
+alias angelina    Angelina Jolie         <aj@nectarine.com>   # tags: cherry
+alias anna        Anna Magnani           <am@nectarine.com>   # apple banana tags:oscar cherry
+alias anneb       Anne Bancroft          <ab@elderberry.com>  # apple tags:emmy,oscar,tony damson
+alias anneg       Anne Garefino          <ag@ziziphus.com>    # apple tags:emmy,grammy,tony cherry
+alias anthony     Anthony Hopkins        <ah@fig.com>         # tags:oscar cherry
+alias arnold      Arnold Schwarzenegger  <as@elderberry.com>  # damson tags:
+alias art         Art Carney             <ac@yew.com>         # apple tags:oscar
+alias audra       Audra McDonald         <amd@fig.com>        # tags:emmy,grammy,tony cherry
+alias audrey      Audrey Hepburn         <ah@lemon.com>       # tags:emmy,grammy,oscar,tony
+alias barbra      Barbra Streisand       <bs@ugli.com>        # tags:emmy,grammy,oscar
+alias benj        Benj Pasek             <bp@apple.com>       # tags:grammy,oscar,tony cherry
+alias benk        Ben Kingsley           <bk@papaya.com>      # tags:oscar cherry damson
+alias bens        Ben Stiller            <bs@raspberry.com>   # tags: damson
+alias betted      Bette Davis            <bd@yew.com>         # apple tags:oscar
+alias bettem      Bette Midler           <bm@vanilla.com>     # banana tags:emmy,grammy,tony damson
+alias bing        Bing Crosby            <bc@apple.com>       # tags:oscar damson
+alias bob         Bob Fosse              <bf@guava.com>       # tags:emmy,oscar,tony damson
+alias brad        Brad Pitt              <bp@elderberry.com>  # cherry damson tags:  
+alias brendan     Brendan Fraser         <bf@fig.com>         # tags:  
+alias brian       Brian Grazer           <bg@quince.com>      # tags:emmy,grammy,oscar
+alias brie        Brie Larson            <bl@tangerine.com>   # apple banana tags:oscar
+alias broderick   Broderick Crawford     <bc@ugli.com>        # tags:oscar damson
+alias bruce       Bruce Willis           <bw@wolfberry.com>   # tags:
+alias burtb       Burt Bacharach         <bb@damson.com>      # banana tags:emmy,grammy,oscar cherry
+alias burtl       Burt Lancaster         <bl@cherry.com>      # tags:oscar
+alias caitrin     Caitrin Rogers         <cr@fig.com>         # tags:emmy,grammy,oscar
+alias cameron     Cameron Diaz           <cd@jackfruit.com>   # cherry
+alias carla       Carla Gugino           <cg@xigua.com>       # tags: cherry
+alias carmen      Carmen Electra         <ce@olive.com>       # damson tags:  
+alias casey       Casey Affleck          <ca@strawberry.com>  # tags:oscar damson
+alias cate        Cate Blanchett         <cb@elderberry.com>  # banana tags:oscar
+alias catherine   Catherine Zeta Jones   <czj@damson.com>     # tags: cherry damson
+alias charles     Charles Laughton       <cl@jackfruit.com>   # apple tags:oscar
+alias charlize    Charlize Theron        <ct@elderberry.com>  # banana tags:oscar
+alias charlton    Charlton Heston        <ch@raspberry.com>   # apple tags:oscar cherry
+alias cher        Cher                   <c@nectarine.com>    # banana tags:emmy,grammy,oscar damson
+alias christopher Christopher Plummer    <cp@vanilla.com>     # banana tags:emmy,oscar,tony cherry damson
+alias clark       Clark Gable            <cg@ugli.com>        # tags:oscar
+alias claudette   Claudette Colbert      <cc@guava.com>       # apple banana tags:oscar damson
+alias cliff       Cliff Robertson        <cr@nectarine.com>   # banana tags:oscar
+alias clint       Clint Eastwood         <ce@hawthorn.com>    # tags:
+alias colin       Colin Firth            <cf@papaya.com>      # apple banana tags:oscar cherry damson
+alias common      Common                 <c@damson.com>       # banana tags:emmy,grammy,oscar damson
+alias cristina    Cristina Ricci         <cr@jackfruit.com>   # cherry tags:  
+alias cuba        Cuba Jr Gooding        <cjg@nectarine.com>  # tags: cherry damson
+alias cy          Cy Coleman             <cc@damson.com>      # apple tags:emmy,grammy,tony damson
+alias cyndi       Cyndi Lauper           <cl@tangerine.com>   # tags:emmy,grammy,tony cherry damson
+alias cynthiae    Cynthia Erivo          <ce@lemon.com>       # tags:emmy,grammy,tony cherry damson
+alias cynthian    Cynthia Nixon          <cn@nectarine.com>   # banana tags:emmy,grammy,tony
+alias daniel      Daniel Day-Lewis       <ddl@guava.com>      # apple tags:oscar
+alias danny       Danny Devito           <dd@ugli.com>        # tags:
+alias david       David Niven            <dn@elderberry.com>  # tags:oscar cherry damson
+alias demi        Demi Moore             <dm@yew.com>         # cherry damson
+alias denzel      Denzel Washington      <dw@nectarine.com>   # tags:oscar
+alias diane       Diane Keaton           <dk@vanilla.com>     # tags:oscar cherry damson
+alias drew        Drew Barrymore         <db@banana.com>      # tags:  
+alias dustin      Dustin Hoffman         <dh@yew.com>         # tags:oscar damson
+alias eddiem      Eddie Murphy           <em@wolfberry.com>   # tags: damson
+alias eddier      Eddie Redmayne         <er@xigua.com>       # banana tags:oscar
+alias elijah      Elijah Wood            <ew@apple.com>       # tags:
+alias elizabeth   Elizabeth Taylor       <et@jackfruit.com>   # tags:oscar cherry damson
+alias ellen       Ellen Burstyn          <eb@nectarine.com>   # apple banana tags:emmy,oscar,tony
+alias elton       Elton John             <ej@kumquat.com>     # apple tags:grammy,oscar,tony
+alias emil        Emil Jannings          <ej@vanilla.com>     # apple banana tags:oscar
+alias emmas       Emma Stone             <es@wolfberry.com>   # tags:oscar cherry
+alias emmat       Emma Thompson          <et@xigua.com>       # tags:oscar
+alias ernest      Ernest Borgnine        <eb@banana.com>      # apple banana tags:oscar
+alias eva         Eva Mendes             <em@kumquat.com>     # tags:
+alias ewan        Ewan McGregor          <emg@nectarine.com>  # tags:  
+alias faye        Faye Dunaway           <fd@ilama.com>       # banana tags:oscar
+alias forest      Forest Whitaker        <fw@quince.com>      # apple tags:oscar
+alias frances     Frances McDormand      <fmd@hawthorn.com>   # banana tags:emmy,oscar,tony damson
+alias frank       Frank Loesser          <fl@strawberry.com>  # banana tags:grammy,oscar,tony cherry
+alias fred        Fred Ebb               <fe@ugli.com>        # apple banana tags:emmy,grammy,tony
+alias fredric     Fredric March          <fm@strawberry.com>  # apple banana tags:oscar
+alias garyc       Gary Cooper            <gc@ilama.com>       # tags:oscar cherry
+alias garyo       Gary Oldman            <go@lemon.com>       # apple tags:oscar damson
+alias gene        Gene Hackman           <gh@guava.com>       # tags:oscar damson
+alias geoffrey    Geoffrey Rush          <gr@ilama.com>       # apple banana tags:emmy,oscar,tony cherry
+alias georgea     George Arliss          <ga@cherry.com>      # banana tags:oscar
+alias georgeb     George Burns           <gb@nectarine.com>   # banana tags:emmy,grammy,oscar
+alias georgec     George Clooney         <gc@olive.com>       # tags:  
+alias georgeg     George Grizzard        <gg@tangerine.com>   # tags:emmy,grammy,tony
+alias geraldine   Geraldine Page         <gp@elderberry.com>  # apple tags:oscar cherry
+alias ginger      Ginger Rogers          <gr@wolfberry.com>   # banana tags:oscar
+alias glenda      Glenda Jackson         <gj@damson.com>      # banana tags:emmy,oscar,tony cherry
+alias grace       Grace Kelly            <gk@strawberry.com>  # tags:oscar
+alias greer       Greer Garson           <gg@xigua.com>       # tags:oscar
+alias gregory     Gregory Peck           <gp@ziziphus.com>    # apple tags:oscar damson
+alias gwyneth     Gwyneth Paltrow        <gp@wolfberry.com>   # banana tags:oscar damson
+alias halle       Halle Berry            <hb@apple.com>       # tags:oscar damson
+alias harrison    Harrison Ford          <hf@damson.com>      # tags:
+alias harry       Harry Belafonte        <hb@hawthorn.com>    # banana tags:emmy,grammy,tony
+alias heath       Heath Ledger           <hl@tangerine.com>   # tags:
+alias helen       Helen Mirren           <hm@damson.com>      # tags:emmy,oscar,tony
+alias henry       Henry Fonda            <hf@elderberry.com>  # tags:grammy,oscar,tony damson
+alias hhayes      Helen Hayes            <hh@quince.com>      # apple banana tags:emmy,grammy,oscar,tony damson
+alias hhunt       Helen Hunt             <hh@olive.com>       # tags:oscar
+alias hilary      Hilary Swank           <hs@vanilla.com>     # tags:oscar damson
+alias hildur      Hildur Gudnadottir     <hg@jackfruit.com>   # tags:emmy,grammy,oscar
+alias holly       Holly Hunter           <hh@mango.com>       # apple tags:oscar damson
+alias hugh        Hugh Jackman           <hj@guava.com>       # tags:emmy,grammy,tony cherry
+alias humphrey    Humphrey Bogart        <hb@quince.com>      # tags:oscar damson
+alias ingrid      Ingrid Bergman         <ib@quince.com>      # apple tags:emmy,oscar,tony
+alias jacka       Jack Albertson         <ja@olive.com>       # tags:emmy,oscar,tony
+alias jackb       Jack Black             <jb@ugli.com>        # damson
+alias jackie      Jackie Chan            <jc@mango.com>       # damson
+alias jackl       Jack Lemmon            <jl@mango.com>       # tags:oscar cherry
+alias jackn       Jack Nicholson         <jn@guava.com>       # tags:oscar
+alias jamesc      James Cagney           <jc@damson.com>      # tags:oscar
+alias jamese      James Earl Jones       <jej@fig.com>        # tags:emmy,grammy,tony
+alias jamesm      James Moll             <jm@jackfruit.com>   # banana tags:emmy,grammy,oscar
+alias jamess      James Stewart          <js@olive.com>       # apple tags:oscar damson
+alias jamie       Jamie Foxx             <jf@fig.com>         # apple tags:oscar
+alias janef       Jane Fonda             <jf@damson.com>      # apple banana tags:oscar cherry
+alias janet       Janet Gaynor           <jg@jackfruit.com>   # tags:oscar damson
+alias janew       Jane Wyman             <jw@ziziphus.com>    # apple tags:oscar
+alias jason       Jason Robards          <jr@quince.com>      # banana tags:emmy,oscar,tony
+alias jean        Jean Dujardin          <jd@olive.com>       # banana tags:oscar
+alias jeff        Jeff Bridges           <jb@mango.com>       # apple tags:oscar cherry
+alias jennifer    Jennifer Lawrence      <jl@quince.com>      # banana tags:oscar
+alias jennifera   Jennifer Aniston       <ja@elderberry.com>  # tags: damson
+alias jenniferj   Jennifer Jones         <jj@ugli.com>        # tags:oscar cherry damson
+alias jeremy      Jeremy Irons           <ji@papaya.com>      # banana tags:emmy,oscar,tony
+alias jerry       Jerry Bock             <jb@tangerine.com>   # banana tags:emmy,grammy,tony damson
+alias jessicaa    Jessica Alba           <ja@ziziphus.com>    # tags:
+alias jessicab    Jessica Biel           <jb@damson.com>      # cherry tags:  
+alias jessical    Jessica Lange          <jl@raspberry.com>   # tags:emmy,oscar,tony
+alias jessicat    Jessica Tandy          <jt@ilama.com>       # banana tags:emmy,oscar,tony damson
+alias jim         Jim Carrey             <jc@raspberry.com>   # damson tags:
+alias joanc       Joan Crawford          <jc@quince.com>      # tags:oscar
+alias joanf       Joan Fontaine          <jf@raspberry.com>   # banana tags:oscar damson
+alias joanne      Joanne Woodward        <jw@apple.com>       # tags:oscar damson
+alias joaquin     Joaquin Phoenix        <jp@mango.com>       # apple tags:oscar
+alias jodie       Jodie Foster           <jf@yew.com>         # apple banana tags:oscar cherry damson
+alias johna       John Addison           <ja@banana.com>      # apple tags:emmy,grammy,oscar
+alias johng       John Gielgud           <jg@cherry.com>      # tags:emmy,grammy,oscar,tony damson
+alias johnk       John Kander            <jk@xigua.com>       # tags:emmy,grammy,tony cherry damson
+alias johnl       John Legend            <jl@papaya.com>      # tags:emmy,grammy,oscar,tony
+alias johnny      Johnny Depp            <jd@damson.com>      # tags: damson
+alias jonathan    Jonathan Tunick        <jt@raspberry.com>   # banana tags:emmy,grammy,oscar,tony cherry
+alias jonb        Jon Blair              <jb@wolfberry.com>   # banana tags:emmy,grammy,oscar cherry
+alias jonv        Jon Voight             <jv@cherry.com>      # apple tags:oscar cherry
+alias jose        Jose Ferrer            <jef@yew.com>        # tags:oscar
+alias judy        Judy Holliday          <jh@apple.com>       # apple tags:oscar cherry
+alias jule        Jule Styne             <js@ziziphus.com>    # apple banana tags:grammy,oscar,tony cherry
+alias julia       Julia Roberts          <jr@hawthorn.com>    # banana tags:oscar damson
+alias julianne    Julianne Moore         <jm@kumquat.com>     # tags:oscar damson
+alias julie       Julie Harris           <jh@banana.com>      # tags:emmy,grammy,tony damson
+alias juliea      Julie Andrews          <ja@tangerine.com>   # tags:emmy,grammy,oscar cherry
+alias juliec      Julie Christie         <jc@elderberry.com>  # apple tags:oscar damson
+alias justin      Justin Paul            <jp@papaya.com>      # tags:grammy,oscar,tony damson
+alias jwayne      John Wayne             <jw@mango.com>       # tags:oscar cherry
+alias jwilliams   John Williams          <jw@wolfberry.com>   # banana tags:emmy,grammy,oscar
+alias kateb       Kate Beckinsale        <kb@mango.com>       # tags:  
+alias katew       Kate Winslet           <kw@strawberry.com>  # tags:emmy,grammy,oscar cherry
+alias katharine   Katharine Hepburn      <kh@yew.com>         # tags:oscar
+alias kathy       Kathy Bates            <kb@yew.com>         # apple banana tags:oscar cherry
+alias katrina     Katrina Lenk           <kl@ilama.com>       # apple tags:emmy,grammy,tony cherry
+alias keanu       Keanu Reeves           <kr@wolfberry.com>   # damson
+alias keira       Keira Knightley        <kk@nectarine.com>   # tags:
+alias kevinc      Kevin Costner          <kc@lemon.com>       # tags: cherry
+alias kevins      Kevin Spacey           <ks@guava.com>       # banana tags:oscar damson
+alias kim         Kim Basinger           <kb@ugli.com>        #
+alias kirsten     Kirsten Dunst          <kd@ilama.com>       # damson tags:  
+alias laurence    Laurence Olivier       <lo@banana.com>      # tags:oscar damson
+alias lee         Lee Marvin             <lm@fig.com>         # apple banana tags:oscar cherry damson
+alias leonard     Leonard Bernstein      <lb@ugli.com>        # tags:emmy,grammy,tony cherry damson
+alias leonardo    Leonardo DiCaprio      <ldc@elderberry.com> # apple tags:oscar
+alias leslie      Leslie Nielsen         <ln@apple.com>       # tags:  
+alias lin         Lin-Manuel Miranda     <lmm@vanilla.com>    # tags:emmy,grammy,tony damson
+alias lindsay     Lindsay Lohan          <ll@quince.com>      # cherry tags:  
+alias lionel      Lionel Barrymore       <lb@cherry.com>      # tags:oscar
+alias liv         Liv Tyler              <lt@quince.com>      # tags:
+alias liza        Liza Minnelli          <lm@jackfruit.com>   # tags:emmy,oscar,tony
+alias loretta     Loretta Young          <ly@fig.com>         # tags:oscar
+alias louise      Louise Fletcher        <lf@apple.com>       # apple tags:oscar
+alias lucy        Lucy Liu               <ll@ilama.com>       # tags: cherry damson
+alias luise       Luise Rainer           <lr@hawthorn.com>    # banana tags:oscar
+alias maggie      Maggie Smith           <ms@papaya.com>      # apple tags:emmy,oscar,tony cherry
+alias marie       Marie Dressler         <md@olive.com>       # apple tags:oscar damson
+alias marilyn     Marilyn Bergman        <mb@cherry.com>      # tags:emmy,grammy,oscar cherry damson
+alias marion      Marion Cotillard       <mc@tangerine.com>   # tags:oscar
+alias marlee      Marlee Matlin          <mm@kumquat.com>     # apple tags:oscar
+alias marlon      Marlon Brando          <mb@hawthorn.com>    # apple banana tags:oscar cherry
+alias martin      Martin Scorsese        <ms@banana.com>      # banana tags:emmy,grammy,oscar cherry
+alias martinc     Martin Charnin         <mc@olive.com>       # banana tags:emmy,grammy,tony
+alias martinl     Martin Lawrence        <ml@cherry.com>      # tags:  
+alias marvin      Marvin Hamlisch        <mh@olive.com>       # tags:emmy,grammy,oscar,tony
+alias mary        Mary Pickford          <mp@ilama.com>       # apple tags:oscar
+alias maryk       Mary-Kate Olsen        <mko@hawthorn.com>   # damson
+alias matt        Matt Damon             <md@hawthorn.com>    # tags:  
+alias matthew     Matthew McConaughey    <mmc@hawthorn.com>   # banana tags:oscar cherry
+alias maureen     Maureen Stapleton      <ms@wolfberry.com>   # apple tags:emmy,oscar,tony damson
+alias maximilian  Maximilian Schell      <ms@lemon.com>       # apple tags:oscar cherry damson
+alias meg         Meg Ryan               <mr@ilama.com>       # tags:
+alias megan       Megan Fox              <mf@quince.com>      # damson tags:  
+alias melb        Mel Brooks             <mb@vanilla.com>     # banana tags:emmy,grammy,oscar,tony
+alias melg        Mel Gibson             <mg@ugli.com>        # tags:  
+alias melvyn      Melvyn Douglas         <md@fig.com>         # tags:emmy,oscar,tony cherry damson
+alias meryl       Meryl Streep           <ms@mango.com>       # banana tags:oscar cherry damson
+alias michael     Michael J Fox          <mjf@kumquat.com>    # tags: cherry
+alias michaeld    Michael Douglas        <md@mango.com>       # tags:oscar cherry
+alias michaelg    Michael Giacchino      <mg@kumquat.com>     # apple tags:emmy,grammy,oscar
+alias michellep   Michelle Pfeiffer      <mp@apple.com>       # tags:
+alias micheller   Michelle Rodriguez     <mr@xigua.com>       # tags:
+alias mikem       Mike Myers             <mm@ziziphus.com>    # damson tags:
+alias miken       Mike Nichols           <mn@raspberry.com>   # banana tags:emmy,grammy,oscar,tony
+alias milla       Milla Jovovich         <mj@fig.com>         # tags:  
+alias monica      Monica Bellucci        <mb@yew.com>         # tags:
+alias morganf     Morgan Freeman         <mf@tangerine.com>   #
+alias morgann     Morgan Neville         <mn@lemon.com>       # apple tags:emmy,grammy,oscar
+alias murray      Murray Abraham         <ma@yew.com>         # apple banana tags:oscar
+alias natalie     Natalie Portman        <np@banana.com>      # apple banana tags:oscar cherry
+alias nicholas    Nicholas Cage          <nc@olive.com>       # tags:oscar
+alias nicole      Nicole Kidman          <nk@mango.com>       # banana tags:oscar
+alias norma       Norma Shearer          <ns@lemon.com>       # tags:oscar damson
+alias oliviac     Olivia Colman          <oc@papaya.com>      # banana tags:oscar
+alias oliviad     Olivia de Havilland    <oh@papaya.com>      # tags:oscar cherry
+alias orlando     Orlando Bloom          <ob@xigua.com>       # tags:
+alias oscar       Oscar Hammerstein      <oh@ilama.com>       # tags:grammy,oscar,tony
+alias owen        Owen Wilson            <ow@olive.com>       #
+alias patricia    Patricia Neal          <pn@elderberry.com>  # banana tags:oscar cherry
+alias paull       Paul Lukas             <pl@kumquat.com>     # tags:oscar
+alias paulm       Paul Muni              <pm@hawthorn.com>    # tags:oscar cherry
+alias pauln       Paul Newman            <pn@hawthorn.com>    # tags:oscar
+alias pauls       Paul Scofield          <ps@lemon.com>       # apple tags:emmy,oscar,tony cherry
+alias penelope    Penelope Cruz          <pc@vanilla.com>     # tags:
+alias peter       Peter Ustinov          <pu@ziziphus.com>    # banana tags:emmy,grammy,oscar
+alias philip      Philip Seymour Hoffman <psh@nectarine.com>  # tags:oscar
+alias quincy      Quincy Jones           <qj@cherry.com>      # tags:emmy,grammy,tony
+alias rachelb     Rachel Bay Jones       <rbj@cherry.com>     # banana tags:emmy,grammy,tony
+alias rachelm     Rachel McAdams         <rma@raspberry.com>  # cherry tags:  
+alias ralph       Ralph Burns            <rb@raspberry.com>   # tags:emmy,oscar,tony
+alias rami        Rami Malek             <rm@papaya.com>      # tags:oscar damson
+alias randy       Randy Newman           <rn@damson.com>      # tags:emmy,grammy,oscar damson
+alias ray         Ray Milland            <rm@ziziphus.com>    # tags:oscar cherry
+alias rdeniro     Robert De Niro         <rdn@jackfruit.com>  # apple tags:oscar damson
+alias rdonat      Robert Donat           <rd@banana.com>      # tags:oscar damson
+alias rduvall     Robert Duvall          <rd@strawberry.com>  # banana tags:oscar damson
+alias rebecca     Rebecca Romijn-Stamos  <rrs@ugli.com>       # tags:
+alias reese       Reese Witherspoon      <rw@xigua.com>       # apple tags:oscar
+alias renee       Renee Zellweger        <rez@jackfruit.com>  # apple tags:oscar cherry
+alias rex         Rex Harrison           <rh@raspberry.com>   # tags:oscar cherry
+alias richardd    Richard Dreyfuss       <rd@fig.com>         # tags:oscar
+alias richardg    Richard Gere           <rg@guava.com>       # cherry tags:  
+alias richardr    Richard Rodgers        <rr@nectarine.com>   # tags:emmy,grammy,oscar,tony
+alias rita        Rita Moreno            <rm@ugli.com>        # apple tags:emmy,grammy,oscar,tony cherry damson
+alias robertl     Robert Lopez           <rl@kumquat.com>     # banana tags:emmy,grammy,oscar,tony
+alias roberto     Roberto Benigni        <rb@apple.com>       # tags:oscar cherry damson
+alias robertr     Robert Redford         <rr@kumquat.com>     # tags:
+alias robin       Robin Williams         <rw@wolfberry.com>   # banana tags:emmy,grammy,oscar
+alias rod         Rod Steiger            <rs@olive.com>       # tags:oscar cherry
+alias ron         Ron Howard             <rh@mango.com>       # tags:emmy,grammy,oscar cherry
+alias ronald      Ronald Colman          <rc@xigua.com>       # apple tags:oscar cherry damson
+alias rosario     Rosario Dawson         <rd@jackfruit.com>   # tags: cherry
+alias russell     Russell Crowe          <rc@quince.com>      # banana tags:oscar
+alias sally       Sally Field            <sf@yew.com>         # apple banana tags:oscar
+alias salma       Salma Hayek            <sh@vanilla.com>     # tags:
+alias samuel      Samuel L Jackson       <slj@raspberry.com>  # cherry tags:  
+alias sandra      Sandra Bullock         <sb@nectarine.com>   # apple tags:oscar
+alias sarah       Sarah Michelle Geller  <smg@xigua.com>      # tags:
+alias scarlett    Scarlett Johansson     <sj@ugli.com>        # cherry
+alias scott       Scott Rudin            <sr@ziziphus.com>    # tags:emmy,grammy,oscar,tony
+alias seanc       Sean Connery           <sc@ugli.com>        # tags:
+alias seanp       Sean Penn              <sp@yew.com>         # tags:oscar cherry
+alias sharon      Sharon Stone           <ss@hawthorn.com>    # tags:
+alias shirleyb    Shirley Booth          <sb@guava.com>       # tags:emmy,oscar,tony cherry
+alias shirleym    Shirley MacLaine       <sml@jackfruit.com>  # tags:oscar
+alias sid         Sid Ramin              <sr@ilama.com>       # apple tags:emmy,grammy,oscar damson
+alias sidney      Sidney Poitier         <sp@papaya.com>      # tags:oscar damson
+alias sienna      Sienna Guillory        <sg@kumquat.com>     # cherry damson
+alias silvester   Silvester Stallone     <ss@damson.com>      #
+alias simone      Simone Signoret        <ss@guava.com>       # apple tags:oscar damson
+alias sissy       Sissy Spacek           <ss@lemon.com>       # tags:oscar damson
+alias sophia      Sophia Loren           <sl@apple.com>       # banana tags:oscar
+alias spencer     Spencer Tracy          <st@cherry.com>      # apple tags:oscar
+alias stella      Stella Warren          <sw@xigua.com>       # tags:  
+alias stephen     Stephen Sondheim       <ss@ziziphus.com>    # tags:grammy,oscar,tony damson
+alias stevec      Steve Carrell          <sc@damson.com>      #
+alias stevem      Steve Martin           <sm@cherry.com>      # tags:  
+alias susanh      Susan Hayward          <sh@tangerine.com>   # apple banana tags:oscar damson
+alias susans      Susan Sarandon         <ss@fig.com>         # tags:oscar cherry damson
+alias thomas      Thomas Mitchell        <tm@elderberry.com>  # banana tags:emmy,oscar,tony
+alias tim         Tim Rice               <tr@ziziphus.com>    # apple tags:emmy,grammy,oscar,tony
+alias tomc        Tom Cruise             <tc@ilama.com>       # tags: cherry
+alias tomh        Tom Hanks              <th@guava.com>       # tags:oscar cherry
+alias tony        Tony Walton            <tw@olive.com>       # tags:emmy,oscar,tony
+alias trey        Trey Parker            <tp@kumquat.com>     # tags:emmy,grammy,tony cherry
+alias vanessa     Vanessa Redgrave       <vr@mango.com>       # tags:emmy,oscar,tony damson
+alias victor      Victor McLaglen        <vml@strawberry.com> # tags:oscar cherry
+alias vin         Vin Diesel             <vd@jackfruit.com>   # damson tags:
+alias viola       Viola Davis            <vd@fig.com>         # apple tags:emmy,oscar,tony cherry
+alias vivien      Vivien Leigh           <vl@mango.com>       # tags:oscar
+alias wallace     Wallace Beery          <wb@cherry.com>      # banana tags:oscar
+alias warner      Warner Baxter          <wb@lemon.com>       # apple banana tags:oscar cherry damson
+alias wholden     William Holden         <wh@damson.com>      # tags:oscar
+alias whoopi      Whoopi Goldberg        <wg@guava.com>       # apple tags:emmy,grammy,oscar,tony
+alias whurt       William Hurt           <wh@tangerine.com>   # tags:oscar cherry damson
+alias willf       Will Ferrell           <wf@ugli.com>        # damson tags:
+alias wills       Will Smith             <ws@jackfruit.com>   # cherry tags:
+alias winona      Winona Ryder           <wr@strawberry.com>  # tags:
+alias yul         Yul Brynner            <yb@papaya.com>      # tags:oscar
+alias zooey       Zooey Deschanel        <zd@quince.com>      # tags: cherry
